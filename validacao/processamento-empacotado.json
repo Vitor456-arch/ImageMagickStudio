@@ -1,0 +1,46 @@
+{
+  "magick": "Version: ImageMagick 7.1.2-26 Q16-HDRI x64 38ba210:20260621 https://imagemagick.org",
+  "results": [
+    {
+      "source": ".test-work\\entrega-processamento\\teste com acentuação 0.png",
+      "state": "concluído",
+      "outputs": [
+        "C:\\Users\\Vitor Corrêa\\Documents\\ChatGPT\\Projetos Pessoais\\ImageMagick Project - 2.0\\reconstrucao\\.test-work\\entrega-processamento\\saida\\teste com acentuação 0.webp"
+      ],
+      "error": ""
+    },
+    {
+      "source": ".test-work\\entrega-processamento\\teste com acentuação 1.png",
+      "state": "concluído",
+      "outputs": [
+        "C:\\Users\\Vitor Corrêa\\Documents\\ChatGPT\\Projetos Pessoais\\ImageMagick Project - 2.0\\reconstrucao\\.test-work\\entrega-processamento\\saida\\teste com acentuação 1.webp"
+      ],
+      "error": ""
+    },
+    {
+      "source": "Conjunto de arquivos",
+      "state": "concluído",
+      "outputs": [
+        "C:\\Users\\Vitor Corrêa\\Documents\\ChatGPT\\Projetos Pessoais\\ImageMagick Project - 2.0\\reconstrucao\\.test-work\\entrega-processamento\\saida\\composicao.pdf"
+      ],
+      "error": ""
+    },
+    {
+      "source": "Conjunto de arquivos",
+      "state": "concluído",
+      "outputs": [
+        "C:\\Users\\Vitor Corrêa\\Documents\\ChatGPT\\Projetos Pessoais\\ImageMagick Project - 2.0\\reconstrucao\\.test-work\\entrega-processamento\\saida\\composicao.gif"
+      ],
+      "error": ""
+    },
+    {
+      "source": "Conjunto de arquivos",
+      "state": "concluído",
+      "outputs": [
+        "C:\\Users\\Vitor Corrêa\\Documents\\ChatGPT\\Projetos Pessoais\\ImageMagick Project - 2.0\\reconstrucao\\.test-work\\entrega-processamento\\saida\\composicao.png"
+      ],
+      "error": ""
+    }
+  ],
+  "ok": true
+}
